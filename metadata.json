@@ -1,0 +1,6 @@
+{
+  "name": "Converter TD",
+  "description": "Offline number system converter and step-by-step math explainer for Binary, Decimal, Octal, and Hexadecimal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
